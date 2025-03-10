@@ -1,7 +1,7 @@
 // pages/sitemap.xml.js
 import { format } from "date-fns";
 
-const BASE_URL = "https://your-domain.com";
+const BASE_URL = "https://type-beat-generator-five.vercel.app";
 
 function generateSiteMap() {
   // List all URLs for your website

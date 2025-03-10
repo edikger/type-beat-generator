@@ -12,7 +12,7 @@ export default function App({ Component, pageProps }) {
     description:
       "Create professional type beat videos for YouTube with custom audio, images, waveform visualizations and effects - all in your browser.",
     image: "/og-image.jpg", // You'll need to create this image in your public folder
-    url: "https://your-domain.com" + router.asPath,
+    url: "https://type-beat-generator-five.vercel.app" + router.asPath,
   };
 
   return (
