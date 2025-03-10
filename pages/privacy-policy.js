@@ -60,7 +60,7 @@ export default function PrivacyPolicy() {
                 and share it.
               </p>
 
-              <h2>6. Children's Privacy</h2>
+              <h2>6. Children&apos;s Privacy</h2>
               <p>
                 Our service is not directed to individuals under 13. We do not
                 knowingly collect personal information from children under 13.
